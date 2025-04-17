@@ -122,6 +122,13 @@
     "unit_of_measurement": "A"
   },
   {
+    "key": "T39",
+    "name": "Water Flow [T39]",
+    "platform": "sensor",
+    "device_class": "volume_flow_rate",
+    "unit_of_measurement": "m³/h"
+  },
+  {
     "key": "2014",
     "name": "AT Target Temp",
     "platform": "sensor",
