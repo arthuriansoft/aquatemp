@@ -101,6 +101,13 @@
     "unit_of_measurement": "\u00b0C"
   },
   {
+    "key": "T15",
+    "name": "Low Pressure [T15]",
+    "platform": "sensor",
+    "device_class": "pressure",
+    "unit_of_measurement": "bar"
+  },
+  {
     "key": "T27",
     "name": "speed of fan motor1 [T27]",
     "platform": "sensor",
